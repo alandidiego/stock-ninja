@@ -15,3 +15,4 @@ This is Stock Ninja! A web-based application allowing users to follow up to 10 p
 
 
 ## Examples of the code
+![alt text](./assets/code.png.png)
